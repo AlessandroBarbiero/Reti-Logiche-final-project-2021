@@ -5,7 +5,7 @@ Politecnico di Milano - Accademic Year 2020-2021
 
 The whole project was implemented in `VHDL` language utilizing `Xilinx Vivado Webpack`.
 ## Goal
-- Creation of a hardware component whose purpose is to achieve the equalization of the histogram of an image.
+Creation of a hardware component adopting Field Programmable Logic Gate Arrays (FPGA) whose purpose is to achieve the equalization of the histogram of an image.
 This procedure is designed to recalibrate the contrast of an image by distributing the intensity values along the entire range of possible values.
 
 ##
